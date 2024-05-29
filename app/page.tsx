@@ -26,7 +26,7 @@ export default function Home() {
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0 linkedin-companies"
             href="https://www.linkedin.com/directory/companies"
             target="_blank"
-            rel="noopener nofollow ugc"
+
           >
             By{" "}
            <svg width="50" height="50" viewBox="0 0 123 125" fill="none" xmlns="http://www.w3.org/2000/svg">
