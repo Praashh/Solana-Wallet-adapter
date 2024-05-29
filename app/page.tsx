@@ -24,9 +24,10 @@ export default function Home() {
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
+            rpl=""
             href="https://www.linkedin.com/directory/companies"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener nofollow ugc"
           >
             By{" "}
            <svg width="50" height="50" viewBox="0 0 123 125" fill="none" xmlns="http://www.w3.org/2000/svg">
